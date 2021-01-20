@@ -1,8 +1,8 @@
 tags:
-  - slug: ukraine
-    name: Україна
-  - slug: facts
-    name: Факти
+  - slug: document
+    name: document
+  - slug: mock
+    name: mock
   - slug: style
     name: style
   - slug: license
